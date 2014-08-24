@@ -12,3 +12,6 @@ D:\Entwicklung\Tech_Workshop\InversionOfControl\IoC_Testapplication\ConsoleAppli
 D:\Entwicklung\Tech_Workshop\InversionOfControl\IoC_Testapplication\ConsoleApplication1\bin\Debug\Microsoft.Practices.Unity.xml
 D:\Entwicklung\Tech_Workshop\InversionOfControl\IoC_Testapplication\ConsoleApplication1\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
 D:\Entwicklung\Tech_Workshop\InversionOfControl\IoC_Testapplication\ConsoleApplication1\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Entwicklung\_GitHub\IoC_Test\IoC_Testapplication\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Entwicklung\_GitHub\IoC_Test\IoC_Testapplication\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Entwicklung\_GitHub\IoC_Test\IoC_Testapplication\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
