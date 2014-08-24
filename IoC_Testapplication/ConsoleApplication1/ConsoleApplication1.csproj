@@ -109,6 +109,7 @@
       <LastGenOutput>TestDBEntities.cs</LastGenOutput>
     </None>
     <None Include="packages.config" />
+    <None Include="_Files\Präsentation.pptx" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
