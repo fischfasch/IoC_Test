@@ -1,0 +1,14 @@
+D:\Entwicklung\Tech_Workshop\InversionOfControl\IoC_Testapplication\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Entwicklung\Tech_Workshop\InversionOfControl\IoC_Testapplication\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Entwicklung\Tech_Workshop\InversionOfControl\IoC_Testapplication\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Entwicklung\Tech_Workshop\InversionOfControl\IoC_Testapplication\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Entwicklung\Tech_Workshop\InversionOfControl\IoC_Testapplication\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Entwicklung\Tech_Workshop\InversionOfControl\IoC_Testapplication\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Entwicklung\Tech_Workshop\InversionOfControl\IoC_Testapplication\ConsoleApplication1\bin\Debug\EntityFramework.dll
+D:\Entwicklung\Tech_Workshop\InversionOfControl\IoC_Testapplication\ConsoleApplication1\bin\Debug\EntityFramework.xml
+D:\Entwicklung\Tech_Workshop\InversionOfControl\IoC_Testapplication\ConsoleApplication1\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Entwicklung\Tech_Workshop\InversionOfControl\IoC_Testapplication\ConsoleApplication1\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Entwicklung\Tech_Workshop\InversionOfControl\IoC_Testapplication\ConsoleApplication1\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Entwicklung\Tech_Workshop\InversionOfControl\IoC_Testapplication\ConsoleApplication1\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Entwicklung\Tech_Workshop\InversionOfControl\IoC_Testapplication\ConsoleApplication1\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Entwicklung\Tech_Workshop\InversionOfControl\IoC_Testapplication\ConsoleApplication1\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
